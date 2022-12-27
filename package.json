@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-hm-01",
+  "name": "goit-node-hw-01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LebedYulia/nodejs-hm-01.git"
+    "url": "git+https://github.com/LebedYulia/goit-node-hw-01"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LebedYulia/nodejs-hm-01/issues"
+    "url": "https://github.com/LebedYulia/goit-node-hw-01/issues"
   },
-  "homepage": "https://github.com/LebedYulia/nodejs-hm-01#readme",
+  "homepage": "https://github.com/LebedYulia/goit-node-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
